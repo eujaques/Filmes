@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Lançou em: " + anoDeLancamento);
         //boolean inclusoNoPlano = false;
         //double notaDoFilme  = 10;
-        //teste de comentario
         double media = (10 + 7.5 + 8) /3;
         System.out.println("Nota de avaliação: " + media);
         String sinopse;
