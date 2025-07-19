@@ -12,6 +12,10 @@ public class Main {
         System.out.println("Nota de avaliação: " + media);
         String sinopse;
         sinopse = "Mulher sai do interior e vai cantar em um cabaré na cidade grande.";
-        System.out.println(sinopse);
+        System.out.println("Sinopse: " + sinopse);
+
+        int classificacao;
+        classificacao = (int) (media /2);
+        System.out.println("Estrelas: " + classificacao);
     }
 }
