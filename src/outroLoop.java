@@ -16,7 +16,7 @@ public class outroLoop {
             }
         }
 
-        System.out.println("Média de avaliação " + mediaAvaliacao/totalDeNotas);
+        System.out.println("Média de avaliação  " + mediaAvaliacao/totalDeNotas);
 
     }
 }

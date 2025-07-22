@@ -12,7 +12,7 @@ public class Loop {
             mediaAvaliacao += nota;
         }
 
-        System.out.println("Média de avaliação " + mediaAvaliacao/3);
+        System.out.println("Média de avaliação  " + mediaAvaliacao/3);
 
     }
 }
